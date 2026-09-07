@@ -1,6 +1,6 @@
 # Automation Log Analysis
 
-Objective 2 of the Log Analysis project series. Extends the beginner-level manual log
+Extends the beginner-level manual log
 review by automating the scan of a Linux log file for suspicious activity — failed
 logins, authentication failures, and unknown/invalid users — using a simple Python
 script in VS Code. The scan is scoped to log lines 200–500 to simulate handling larger
